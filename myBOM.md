@@ -1,6 +1,6 @@
 **PCB/JLC Assembily**
 | Part Name | Amount | Link |
-| --------- | ------ | ---- |
+| --------- | :------: | ---- |
 | Sensor PCB | 1 | https://github.com/Bastardkb/charybdis-pmw-sensor |
 | Elite-C/Splinky Holer | 2 | https://github.com/Bastardkb/Elite-C-holder |
 | Splinky | 2 | https://github.com/bastardkb/splinky |
