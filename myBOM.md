@@ -1,4 +1,5 @@
 # PCB/JLC Assembily
+
 | Part Name | Amount | Link | Note |
 | --------- | :----: | ---- | ---- |
 | Sensor PCB | 1 | https://github.com/Bastardkb/charybdis-pmw-sensor | Needs Assembly |
